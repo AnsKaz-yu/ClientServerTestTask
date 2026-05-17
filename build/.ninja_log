@@ -1,0 +1,22 @@
+# ninja log v6
+172	1058	8005734119254470	client/DeviceMonitorClient_autogen/timestamp	117e735cac43b217
+172	1058	8005734119254470	client/DeviceMonitorClient_autogen/mocs_compilation.cpp	117e735cac43b217
+172	1058	8005734119254470	C:/Users/assjo/VSProjects/TestProject/build/client/DeviceMonitorClient_autogen/timestamp	117e735cac43b217
+172	1058	8005734119254470	C:/Users/assjo/VSProjects/TestProject/build/client/DeviceMonitorClient_autogen/mocs_compilation.cpp	117e735cac43b217
+149	1158	8005734120037346	server/DeviceMonitorServer_autogen/timestamp	94441ec5e583561f
+149	1158	8005734120037346	server/DeviceMonitorServer_autogen/mocs_compilation.cpp	94441ec5e583561f
+149	1158	8005734120037346	C:/Users/assjo/VSProjects/TestProject/build/server/DeviceMonitorServer_autogen/timestamp	94441ec5e583561f
+149	1158	8005734120037346	C:/Users/assjo/VSProjects/TestProject/build/server/DeviceMonitorServer_autogen/mocs_compilation.cpp	94441ec5e583561f
+1078	10077	8005734120771214	client/CMakeFiles/DeviceMonitorClient.dir/src/main.cpp.obj	caf795eec27eb8d3
+1062	10419	8005734120600956	client/CMakeFiles/DeviceMonitorClient.dir/DeviceMonitorClient_autogen/mocs_compilation.cpp.obj	b2bb119d3f3df572
+1127	10556	8005734121238841	client/CMakeFiles/DeviceMonitorClient.dir/src/data_generator.cpp.obj	e255fb930073c449
+1181	11178	8005734121788579	server/CMakeFiles/DeviceMonitorServer.dir/src/main.cpp.obj	7be9736e3bfc5e77
+1217	10811	8005734122151736	server/CMakeFiles/DeviceMonitorServer.dir/src/server_worker.cpp.obj	d2f7d8eb86a2e222
+1102	11008	8005734120998014	client/CMakeFiles/DeviceMonitorClient.dir/src/device_client.cpp.obj	33ad90656d87560
+1161	11547	8005734121586153	server/CMakeFiles/DeviceMonitorServer.dir/DeviceMonitorServer_autogen/mocs_compilation.cpp.obj	ee8fd17ce5c9ae47
+1235	11261	8005734122318287	server/CMakeFiles/DeviceMonitorServer.dir/src/client_handler.cpp.obj	6700d4e02e422588
+13649	14204	8005719895771155	client/DeviceMonitorClient.exe	3319234da143a54c
+1200	13165	8005734121971719	server/CMakeFiles/DeviceMonitorServer.dir/src/mainwindow.cpp.obj	6db6b507e90443fa
+15908	16165	8005719918336302	server/DeviceMonitorServer.exe	9b1c614b71a11cee
+134	598	8005734459509668	server/DeviceMonitorServer.exe	9b1c614b71a11cee
+73	309	8005734834917469	client/DeviceMonitorClient.exe	3319234da143a54c

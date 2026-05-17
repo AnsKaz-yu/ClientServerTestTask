@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/assjo/VSProjects/TestProject/build/cmake_install.cmake",
+		"C:/Users/assjo/VSProjects/TestProject/build/server/cmake_install.cmake",
+		"C:/Users/assjo/VSProjects/TestProject/build/client/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

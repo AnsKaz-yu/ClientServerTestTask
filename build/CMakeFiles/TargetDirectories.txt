@@ -1,0 +1,12 @@
+C:/Users/assjo/VSProjects/TestProject/build/CMakeFiles/edit_cache.dir
+C:/Users/assjo/VSProjects/TestProject/build/CMakeFiles/rebuild_cache.dir
+C:/Users/assjo/VSProjects/TestProject/build/server/CMakeFiles/DeviceMonitorServer.dir
+C:/Users/assjo/VSProjects/TestProject/build/server/CMakeFiles/edit_cache.dir
+C:/Users/assjo/VSProjects/TestProject/build/server/CMakeFiles/rebuild_cache.dir
+C:/Users/assjo/VSProjects/TestProject/build/server/CMakeFiles/DeviceMonitorServer_autogen_timestamp_deps.dir
+C:/Users/assjo/VSProjects/TestProject/build/server/CMakeFiles/DeviceMonitorServer_autogen.dir
+C:/Users/assjo/VSProjects/TestProject/build/client/CMakeFiles/DeviceMonitorClient.dir
+C:/Users/assjo/VSProjects/TestProject/build/client/CMakeFiles/edit_cache.dir
+C:/Users/assjo/VSProjects/TestProject/build/client/CMakeFiles/rebuild_cache.dir
+C:/Users/assjo/VSProjects/TestProject/build/client/CMakeFiles/DeviceMonitorClient_autogen_timestamp_deps.dir
+C:/Users/assjo/VSProjects/TestProject/build/client/CMakeFiles/DeviceMonitorClient_autogen.dir
