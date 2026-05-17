@@ -33,7 +33,7 @@ cmake --build build --parallel
 
 Для остановки:
 
-`Stop All Clients` — остановить отправку данных
+`Stop All Clients` — остановить отправку данных; 
 `Stop Server` — полностью выключить сервер
 
 
